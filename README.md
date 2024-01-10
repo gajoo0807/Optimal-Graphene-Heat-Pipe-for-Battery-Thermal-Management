@@ -1,4 +1,4 @@
-# AI_enabled_Optimal_Parameters_Identification_for_Heat_Pipe_of_Electric_Vehicle_Batteries
+# Optimal Graphene Heat Pipe Parameters for Enhanced Battery Thermal Management through Global Optimization
 [Graphene Heat Pipe Optimization for Improved Battery Thermal Management](https://ieeexplore.ieee.org/abstract/document/10231239) - User Interface Code
 
 In this work, we utilizes machine learning techniques to address the time and cost challenges in the field of nanotechnology. Through the Surrogate Model Algorithm, it becomes possible to explore potential optimization parameters with limited experimental data, thereby reducing the time and manpower costs associated with finding the optimal parameters. 
